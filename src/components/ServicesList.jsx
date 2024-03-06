@@ -7,7 +7,7 @@ const Services = [
     id: 1,
     image: 'card1.jpg',
     title: 'Commercial Cleaning Services',
-    description: 'Professional cleaning services provided to businesses and commercial properties, including offices, retail stores, hospitals, and schools.'
+    description: 'Professional cleaning services provided to businesses and commercial properties, including offices, retail stores, and schools.'
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const Services = [
   {
     id: 4,
     image: 'card4.jpg',
-    title: 'Quick Gigs',
+    title: 'Maid Services',
     description: 'A range of cleaning services that can be completed quickly and efficiently, such as window cleaning, pressure washing, or deep cleaning of a specific area, often provided on an as-needed basis.'
   }
 ];

@@ -4,9 +4,9 @@ import './css/Hero.css'; // import CSS file
 
 function Hero() {
   return (
-    <Box bg="#ffffff" py="16">
+    <Box bg="#ffffff" py="10">
       <Center>
-        <Image src="wipe.png" alt="Logo" maxW="600px" className="animate" />
+        <Image src="ICCS_logo.png" alt="Logo" maxW="350px" className="animate" />
       </Center>
     </Box>
   );

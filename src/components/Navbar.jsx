@@ -4,7 +4,7 @@ import { Box, Flex, Link, Spacer } from '@chakra-ui/react';
 
 function Navbar() {
   return (
-    <Box bg="#5E17EB" py="3">
+    <Box bg="#283d90" py="3">
       <Flex maxW="1200px" mx="auto" px="4">
         <Link href="/" fontSize="xl" fontWeight="bold" color="white">Home</Link>
         <Spacer />
