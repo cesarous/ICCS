@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ICCS/static/css/main.68def699.css",
+    "main.js": "/ICCS/static/js/main.3e6784c8.js",
+    "index.html": "/ICCS/index.html",
+    "main.68def699.css.map": "/ICCS/static/css/main.68def699.css.map",
+    "main.3e6784c8.js.map": "/ICCS/static/js/main.3e6784c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68def699.css",
+    "static/js/main.3e6784c8.js"
+  ]
+}
