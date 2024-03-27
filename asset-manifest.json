@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ICCS/static/css/main.ff0a58ed.css",
-    "main.js": "/ICCS/static/js/main.32026aa2.js",
+    "main.js": "/ICCS/static/js/main.f10c3e6f.js",
     "index.html": "/ICCS/index.html",
     "main.ff0a58ed.css.map": "/ICCS/static/css/main.ff0a58ed.css.map",
-    "main.32026aa2.js.map": "/ICCS/static/js/main.32026aa2.js.map"
+    "main.f10c3e6f.js.map": "/ICCS/static/js/main.f10c3e6f.js.map"
   },
   "entrypoints": [
     "static/css/main.ff0a58ed.css",
-    "static/js/main.32026aa2.js"
+    "static/js/main.f10c3e6f.js"
   ]
 }
