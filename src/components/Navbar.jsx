@@ -8,10 +8,20 @@ function Navbar() {
       <Flex maxW="1200px" mx="auto" px="4">
         <Link href="#home" fontSize="xl" fontWeight="bold" color="white">Home</Link>
         <Spacer id="home" />
-        <Link href="#aboutus-section"  mr="4" color="white">About Us</Link>
-        <Link href="#services-list" mr="4" color="white">Services</Link>
-        <Link href="#map" mr="4" color="white">Map</Link>
-        <Link href="#contact-form" mr="4" color="white">Contact Us</Link>
+        <Box sx={{marginLeft:"10%"}}>
+          <Box>
+            <Link href="#aboutus-section"  mr="4" color="white">About Us</Link>
+          </Box>
+          <Box>
+            <Link href="#services-list" mr="4" color="white">Services</Link>
+          </Box>
+          <Box>
+            <Link href="#map" mr="4" color="white">Map</Link>
+          </Box>
+          <Box>
+            <Link href="#contact-form" mr="4" color="white">Contact Us</Link>
+          </Box>
+        </Box>
       </Flex>
     </Box>
   );

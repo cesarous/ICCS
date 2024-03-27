@@ -1,0 +1,9 @@
+@media (max-width: 600px) {
+    .hstack {
+      flex-wrap: wrap;
+    }
+  
+    .hstack a {
+      flex: 0 0 50%;
+    }
+  }
